@@ -23,8 +23,8 @@ Este projeto é uma solução para o [FAQ Accordion no Frontend Mentor](https://
 
 ## 🔗 Links
 
-- Solution URL: [FAQ Accordion/Frontier Mentor](https://www.frontendmentor.io/solutions/age-calculator-appnextjs-tailwinds-vbeDGNeJAc)
-- Live Site URL: [Vercel App](https://age-calculator-app-black.vercel.app)
+- Solution URL: [FAQ Accordion/Frontier Mentor](https://www.frontendmentor.io/solutions/faq-accordionnextjs-tailwinds-xxAnblNETC)
+- Live Site URL: [Vercel App](https://faq-accordion-orcin.vercel.app)
 
 ## 🚀 Processo
 
